@@ -60,3 +60,9 @@ Disallow: /
 
 User-Agent: PerplexityBot
 Disallow: /
+
+User-agent: GPTBot
+User-agent: GPTBot-User
+User-agent: ChatGPT
+User-agent: ChatGPT-User
+Disallow: /
