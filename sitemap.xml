@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>http://www.alexanderhay.co.uk/</loc>
+
+   </url>
    
    <url>
 
@@ -35,6 +41,12 @@
   <url>
 
       <loc>https://alexanderhayauthor.github.io/website/extras.html</loc>
+  
+   </url>
+  
+  <url>    
+      
+      <loc>https://alexanderhayauthor.github.io/website/space-marine-2-on-the-couch.html</loc>
 
    </url>
    
